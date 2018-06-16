@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "200517360508",
+    "firebase_url": "https://fir-altice.firebaseio.com",
+    "project_id": "fir-altice",
+    "storage_bucket": "fir-altice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200517360508:android:459fd774a2728f47",
+        "android_client_info": {
+          "package_name": "com.example.dao.redsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200517360508-66p5mmo69i46s9um3vjipglh34un1945.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dao.redsocial",
+            "certificate_hash": "6ec2c7c8dfdffd938aea8374db7379f600d4c7d5"
+          }
+        },
+        {
+          "client_id": "200517360508-87bhearb618nmen7cn47s4jac63fc0dh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "200517360508-87bhearb618nmen7cn47s4jac63fc0dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LYCB1djv9vQjNkdo7FFZBuaBvW6ETsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200517360508-87bhearb618nmen7cn47s4jac63fc0dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
